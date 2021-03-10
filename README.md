@@ -14,7 +14,7 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 
 ## Checklist
 ### 1º Ciclo: Preparação e Planejamento
-- [x] [Entrevista Para Elicitação das características de um processo de negócio](/GPN/Elicitação de Características do Processo - Entrevista.pdf) (09/02/2021)
+- [x] [Entrevista Para Elicitação das características de um processo de negócio](/GPN/Elicitação_de_Características_do_Processo_Entrevista.pdf) (09/02/2021)
 - [x] Reunião com stakeholders (11/02/2021) 
 - [x] [Formulário descrição do problema](/SGE/problem-description.md) (14/02/2021)
 - [x] [Canvas do Projeto](/PGP/Canvas.jpeg)
