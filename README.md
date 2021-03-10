@@ -18,8 +18,8 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 - [x] Reunião com stakeholders (11/02/2021) 
 - [x] [Formulário descrição do problema](/SGE/problem-description.md) (14/02/2021)
 - [x] [Canvas do Projeto](/PGP/Canvas.jpeg)
-- [x] [Termo de Abertura](/PGP/Termo De Abertura.pdf) (18/02/2021)
-- [x] [Apresentação Kickoff](/SGE/Kick-Off — Canvas.pdf) (18/02/2021)
+- [x] [Termo de Abertura](/PGP/Termo_De_Abertura.pdf) (18/02/2021)
+- [x] [Apresentação Kickoff](/SGE/Kick-Off_Apresentação.pdf) (18/02/2021)
 - [x] Criação do Github (18/02/2021)
 - [x] Criação do Trello (20/02/2021)
 - [x] Avaliação 360º (22/02/2021)
@@ -27,25 +27,26 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
  - [x] Gerenciando os Fatores Críticos de Sucesso do seu projeto. (25/02/2021)
  - [x] Modelagem de Processos de Negócio com BPMN.
- - [x] Entrega do documento de processo de negócio parcial contendo o modelo BPMN do processo AS-IS + apresentação (09/03/2021)
+ - [ ] Modelo do processo de negócio AS-IS/TO-BE (09/03/2021) (Em desenvolvimento)
+ - [ ] Elaboração 1º Status Report (09/03/2021) (Em desenvolvimento)
 
 ## Stakeholders
 ### Cliente
 * **Marco Eugênio** - *Professor e Diretor de Avaliação e Desenvolvimento de Tecnologias do IFPE*
 * **Comunidade Acadêmica do IFPE** - *Servidores e Discentes*
-* 
+
 ### Consultoria
 * **Carla Silva** - *Gestão de Processos de Negócio*
 * **Simone Santos** - *Sistemas de Gestão Empresarial*
 * **Alexandre Vasconcelos** - *Planejamento de Gerenciamento de Projetos*
 
 ### Equipe
-* **Matheus do Nascimento** - *Lider de Projetos*
-* **Wilson Wagner** - *Assistente de Projetos* - [wilsonwagner](https://github.com/wilsonwagner)
-* **Gabriel Oliveira** - *Programador* - [bihellzin](https://github.com/bihellzin)
-* **Gustavo Nogueira** - *Programador* - [gustavogno17](https://github.com/gustavogno17)
-* **Maurício Felipe** - *Modelador* - [MauricioFGF](https://github.com/MauricioFGF)
-* **Guilherme Guerra** - *Modelador* - 
-* **Renato Gabriel** - *Modelador* - 
+* **Matheus do Nascimento** - *Lider de Projetos* — [mna2](https://github.com/mna2)
+* **Wilson Wagner** - *Assistente de Projetos* — [wilsonwagner](https://github.com/wilsonwagner)
+* **Gabriel Oliveira** - *Programador* — [bihellzin](https://github.com/bihellzin)
+* **Gustavo Nogueira** - *Programador* — [gustavogno17](https://github.com/gustavogno17)
+* **Maurício Felipe** - *Modelador* — [MauricioFGF](https://github.com/MauricioFGF)
+* **Guilherme Guerra** - *Modelador* — [guilhermeguerrac](https://github.com/guilhermeguerrac)
+* **Renato Gabriel** - *Modelador* —
 
 ### Link para o [Trello](https://trello.com/b/PJvMYzOw/pgp)
