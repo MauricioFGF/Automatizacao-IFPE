@@ -25,10 +25,17 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 - [x] Avaliação 360º (22/02/2021)
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
- - [x] Gerenciando os Fatores Críticos de Sucesso do seu projeto. (25/02/2021)
- - [x] Modelagem de Processos de Negócio com BPMN.
- - [ ] Modelo do processo de negócio AS-IS/TO-BE (09/03/2021) (Em desenvolvimento)
- - [ ] Elaboração 1º Status Report (09/03/2021) (Em desenvolvimento)
+- [x] Gerenciando os Fatores Críticos de Sucesso do seu projeto. (25/02/2021)
+- [x] Modelagem de Processos de Negócio com BPMN.
+- [x] [Modelo do processo de negócio AS-IS](/GPN/BPMN_Matrícula_Presencial.pdf) (09/03/2021)
+- [x] [Elaboração 1º Status Report](/SGE/1º_Status_Report.pdf) (09/03/2021)
+- [x] Apresentação 1º Status Report (11/03/2021)
+- [x] Avaliação 360º (11/03/2021)
+
+### 3º Ciclo: Design da Solução
+ - [ ] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
+
+
 
 ## Stakeholders
 ### Cliente
@@ -47,6 +54,6 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 * **Gustavo Nogueira** - *Programador* — [gustavogno17](https://github.com/gustavogno17)
 * **Maurício Felipe** - *Modelador* — [MauricioFGF](https://github.com/MauricioFGF)
 * **Guilherme Guerra** - *Modelador* — [guilhermeguerrac](https://github.com/guilhermeguerrac)
-* **Renato Gabriel** - *Modelador* —
+* **Renato Gabriel** - *Modelador* — [Renabouj](https://github.com/Renabouj)
 
 ### Link para o [Trello](https://trello.com/b/PJvMYzOw/pgp)
