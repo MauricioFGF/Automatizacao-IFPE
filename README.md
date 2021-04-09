@@ -32,17 +32,29 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 - [x] Apresentação 1º Status Report (11/03/2021)
 - [x] Avaliação 360º (11/03/2021)
 
-- Documentação:
+#### Documentação:
+
 - [x] [Matriz de Risco e Probabilidade](/PGP/Matriz_de_Risco_e_Probabilidade.pdf)
 - [x] [Plano de Gerenciamento das Comunicações](/PGP/Plano_Gerenciamento_das_comunicações.pdf)
 - [x] [Declaração do Escopo do Projeto](/PGP/Declaração_Do_Escopo_Do_Projeto.pdf)
 - [x] [Identificação dos Envolvidos](/PGP/Gerência_das_partes_Interessadas.pdf)
 - [x] [Matriz de Responsabilidades](/PGP/Matriz_de_Responsabilidades.pdf)
 
-### 3º Ciclo: Design da Solução
- - [ ] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
+### 3º Ciclo: Design da Solução:
+- [x] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
+- [x] Modelo do processo de negócio TO-BE
+- [x] [Diagrama Ishikawa](/GPN/Diagrama_Ishikawa.pdf)
+- [x] [Diagrama iStar](/GPN/Diagrama_iStar.png)
+- [x] [Plano de Gerenciamento de Cronograma](/PGP/Plano_de_Gerenciamento_de_Cronograma.pdf)
+- [x] [Plano de Gerenciamento de Escopo](/PGP/Plano_de_Gerenciamento_de_Escopo.pdf)
+- [x] [Plano de Gerenciamento de Requisitos do Produto](/PGP/Plano_de_Requisitos_Do_Produto.pdf)
+- [x] [Plano de Gerenciamento de Comunicações](/PGP/Plano_de_Gerenciamento_de_Comunicações.pdf)
+- [x] [Estrutura Analítica do Projeto | EAP](/PGP/EAP.pdf)
+- [x] [2º Status Report](/SGE/2º_Status_Report.pdf) (08/04/2021)
+- [x] Avaliação 360º
 
-
+### 4º Ciclo: Entrega da Solução:
+- [ ] Mapeamento entre Solução e Valores de negócio
 
 ## Stakeholders
 ### Cliente
