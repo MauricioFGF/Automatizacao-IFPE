@@ -54,7 +54,14 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 - [x] Avaliação 360º
 
 ### 4º Ciclo: Entrega da Solução:
-- [ ] Mapeamento entre Solução e Valores de negócio
+- [x] Mapeamento entre Solução e Valores de negócio
+- [x] Modelo do processo de negócio i* e BPMN TO-BE
+- [x] Plano de Processo final do projeto
+- [x] Indicadores de desempenho do processo
+- [x] [Elaboração Final Report](/SGE/3º_Status_Report.pdf)
+- [x] Apresentação Final Report (29/04/2021)
+- [x] Diário de atividades
+- [x] Avaliação 360º
 
 ## Stakeholders
 ### Cliente
